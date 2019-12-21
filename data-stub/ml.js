@@ -1,4 +1,4 @@
-export const ml = {
+module.exports = {
     theme: 'Machine Learning',
     questions: [
         {

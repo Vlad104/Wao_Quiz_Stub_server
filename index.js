@@ -1,5 +1,5 @@
-import express from 'express';
-import { stub } from './data-stub';
+const express = require('express');
+const stub = require('./data-stub');
 
 const app = express();
 const data = stub;

@@ -1,4 +1,4 @@
-export const space = {
+module.exports = {
     theme: 'Космос',
     questions: [
         {
