@@ -24,8 +24,8 @@ module.exports = {
             answers: [
                 { text: 'Сигмоида', rigth: false },
                 { text: 'ReLU', rigth: false },
-                { text: 'Синус', rigth: false },
-                { text: 'Гиперболический тангенс', rigth: true },
+                { text: 'Синус', rigth: true },
+                { text: 'Гиперболический тангенс', rigth: false },
             ]
         },
         {
